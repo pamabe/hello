@@ -1,0 +1,19 @@
+{
+    "name": "pamabe/hello",
+    "description": "first test",
+    "authors": [
+        {
+            "name": "pamabe",
+            "email": "18455232857@163.com"
+        }
+    ],
+	"license": "MIT",
+	"minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"Hello\\": "src/"
+		}
+	}
+				
+}
